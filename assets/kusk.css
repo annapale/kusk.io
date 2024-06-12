@@ -43,10 +43,18 @@ nav{
    width: 250px;
 }
 
+a {
+    color:#db693e !important;
+}
+
 h1,h2,h3,h4,h5,h6{
     font-family: "Julius Sans One", sans-serif;
     color: #db693e !important;
     text-align: center;
+}
+
+strong{
+    color:#db693e;
 }
 
 .whitecol{
@@ -76,3 +84,10 @@ article{
     width: 175px;
 }
 
+footer{
+    height: 50px;
+}
+
+footer img{
+    height: 100px !important;
+}
