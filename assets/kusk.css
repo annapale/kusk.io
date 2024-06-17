@@ -73,7 +73,10 @@ p{
 }
 
 article{
-    margin-top: 100px !important;
+    margin: 25px;
+}
+
+article > div{
     padding: 20px !important;
 }
 
@@ -84,6 +87,14 @@ article{
     width: 175px;
 }
 
+#games{
+    margin-bottom: 60px;
+}
+
+#home{
+    margin-top: 100px !important;
+}
+
 footer{
     height: 50px;
 }
@@ -91,3 +102,4 @@ footer{
 footer img{
     height: 100px !important;
 }
+
