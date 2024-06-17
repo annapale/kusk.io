@@ -1,0 +1,111 @@
+html{
+    scroll-padding-top: 60px;
+}
+
+body{
+    background-color: #ffebd2 !important;
+}
+
+.julius-sans one-regular {
+    font-family: "Julius Sans One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.libre-baskerville-regular {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .libre-baskerville-bold {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .libre-baskerville-regular-italic {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+nav{
+    font-family: "Libre Baskerville", serif;
+    font-weight: bold;
+}
+
+.navbar-toggler{
+    background-color: #ffebd2 !important;
+}
+
+#logo{
+   width: 250px;
+}
+
+a {
+    color:#db693e !important;
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-family: "Julius Sans One", sans-serif;
+    color: #db693e !important;
+    text-align: center;
+}
+
+strong{
+    color:#db693e;
+}
+
+.whitecol{
+    color: white !important;
+}
+
+.blackcol{
+    color: black !important;
+    font-family: "Libre Baskerville", serif !important;
+}
+
+p{
+    font-family: "Libre Baskerville", serif;
+    margin: 20px;
+    font-size: large;
+}
+
+article{
+    margin: 10px !important;
+    padding: 20px;
+}
+
+article > div{
+    padding: 10px !important;
+}
+
+.btn{
+    background-color: #db693e !important;
+    color: #ffffff !important;
+    font-family: "Libre Baskerville", serif;
+    width: 175px;
+}
+
+.logotyp{
+    height: 150px !important;
+    margin-bottom: 10px;
+}
+
+#games{
+    margin-bottom: 60px;
+}
+
+#home{
+    margin-top: 100px !important;
+}
+
+footer{
+    height: 50px;
+}
+
+footer img{
+    height: 100px !important;
+}
+
