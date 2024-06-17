@@ -73,11 +73,12 @@ p{
 }
 
 article{
-    margin: 25px;
+    margin: 10px !important;
+    padding: 20px;
 }
 
 article > div{
-    padding: 20px !important;
+    padding: 10px !important;
 }
 
 .btn{
@@ -85,6 +86,11 @@ article > div{
     color: #ffffff !important;
     font-family: "Libre Baskerville", serif;
     width: 175px;
+}
+
+.logotyp{
+    height: 150px !important;
+    margin-bottom: 10px;
 }
 
 #games{
